@@ -22,10 +22,10 @@ je suis actuellement en alternance en tant que Chargée de Communication au sein
 - Veille concurentielle
 
 **2022:** Stage de 4 semaines en tant que Community Manager chez [Numiscarte](#),
--Recherche d'informations 
--Création d'un site Internet sur Wix
--Vente en ligne et suivi de commande
--Création de mail de newsletters
+- Recherche d'informations 
+- Création d'un site Internet sur Wix
+- Vente en ligne et suivi de commande
+- Création de mail de newsletters
 
 ## Compétences
 - Communication digitale
