@@ -37,4 +37,4 @@ je suis actuellement en alternance en tant que Chargée de Communication au sein
 
 ## Contact
 - Email: laurie.grg11@gmail.com
-- LinkedIn: [Mon LinkedIn]([www.linkedin.com/in/laurie-grangier-74]
+- LinkedIn: [Mon LinkedIn]([www.linkedin.com/in/laurie-grangier-74])
