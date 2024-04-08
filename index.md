@@ -1,3 +1,5 @@
+theme:jekyll-theme-cayman
+
 # Laurie Grangier
 
 ## À propos de moi
