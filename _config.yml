@@ -1,4 +1,6 @@
 theme: jekyll-theme-cayman
+bundle exec jekyll serve
+
 
 # Laurie Grangier
 
