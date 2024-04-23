@@ -4,7 +4,7 @@
 
 ## À propos de moi
 Actuellement en troisième année du Bachelor Universitaire de Technologie (BUT) en Information-Communication avec une spécialisation en Numérique dans les Organisations à l'IUT Bordeaux Montaigne, 
-je suis actuellement en alternance en tant que Chargée de Communication au sein du cabinet de conseil et de Ressources Humaines Axe et Cible Neovia.
+je suis en alternance en tant que Chargée de Communication au sein du cabinet de conseil et de Ressources Humaines Axe et Cible Neovia.
 
 ## Formation
 - **2021-2024:** BUT Information Numérique dans les Organisations.
